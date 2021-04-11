@@ -1,0 +1,300 @@
+.container
+{
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.card-body .row .col-lg-3
+{
+    margin-left: 50px;
+}
+
+
+.button {
+    position: absolute;
+    top: 670px;
+    left: 50px;
+    background-color: rgb(43,136,216);
+    border: none;
+    color: #fff;
+    padding: 20px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 10px;
+
+  }
+
+  
+.button:hover {
+    position: absolute;
+    top: 670px;
+    left: 50px;
+    background-color: rgb(43,136,216);
+    border: none;
+    color: #fff;
+    padding: 20px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 10px;
+
+  }
+
+  .container .card .card-body #contact
+  {
+      position: absolute;
+      top: 980px;
+      left: 165px;
+  }
+
+  
+.container .card .card-body #number{
+  position: absolute;
+  top:940px;
+  left: 135px;
+}
+
+  #contact a
+  { 
+    font-size: 1.8rem;
+    font-weight: bold;
+    text-decoration: none;
+    color: rgb(78, 78, 78);
+  }
+
+  #contact a:hover
+  { 
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+  }
+
+  #number a
+  {
+    font-size: 1.8rem;
+    font-weight: bold;
+    text-decoration: none;
+    color: rgb(78, 78, 78);
+  }
+
+  #number a:hover
+  {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+  }
+
+
+
+  .title
+  {
+    font-size: 1.9rem;
+  }
+
+  .linker
+  {
+    text-decoration: none;
+    color: #fff;
+  }
+
+  .linker:hover
+  {
+
+    color: rgb(68, 67, 67);
+  }
+
+
+
+  
+
+
+
+  
+@media only screen and (max-width: 1400px) {
+  .container .card .card-body #contact
+  {
+      position: absolute;
+      top: 985px;
+      left: 135px;
+  }
+
+  .container .card .card-body #number{
+    position: absolute;
+    top:935px;
+    left: 135px;
+  }
+  .button {
+    position: absolute;
+    top: 500px;
+    left: 75px;
+    background-color: rgb(43,136,216);    border: none;
+    color: #fff;
+    padding: 20px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 10px;
+  }
+
+    
+.button:hover {
+  position: absolute;
+  top: 500px;
+    left: 75px;
+  background-color: rgb(43,136,216);
+  border: none;
+  color: #fff;
+  padding: 20px 50px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 10px;
+}
+}
+
+
+
+@media only screen and (max-width: 1200px) {
+  .container .card .card-body #contact
+  {
+      position: absolute;
+      top: 830px;
+      left: 120px;
+  }
+
+  .container .card .card-body #number{
+    position: absolute;
+    top:785px;
+    left: 120px;
+  }
+  .button {
+    position: absolute;
+    top: 470px;
+    left: 60px;
+    background-color: rgb(43,136,216);    border: none;
+    color: #fff;
+    padding: 20px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 10px;
+  }
+
+  .button:hover {
+    position: absolute;
+    top: 470px;
+    left: 60px;
+  background-color: rgb(43,136,216);
+    border: none;
+    color: #fff;
+    padding: 20px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 10px;
+  }
+
+  #contact a
+  { 
+    font-size: 1.2rem;
+    font-weight: bold;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+  }
+
+  #number a
+  {
+
+    font-size: 1.2rem;
+    font-weight: bold;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+  }
+
+
+  .title
+  {
+    font-size: 1.3rem;
+  }
+}
+
+@media only screen and (max-width: 991px) {
+  .container .card .card-body #contact
+  {
+      position: absolute;
+      top: 610px;
+      left: 110px;
+  }
+
+  .container .card .card-body #number{
+    position: absolute;
+    top: 580px;
+    left: 110px;
+  }
+  .button {
+    position: absolute;
+    top: 310px;
+    left: 50px;
+    background-color: rgb(43,136,216);   
+     border: none;
+    color: #fff;
+    padding: 20px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 10px;
+  }
+
+  #contact a
+  { 
+    font-size: 0.8rem;
+    font-weight: bold;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+  }
+
+  #number a
+  {
+
+    font-size: 0.8rem;
+    font-weight: bold;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+  }
+
+
+  .title
+  {
+    font-size: 0.9rem;
+  }
+
+  
+  .button:hover {
+    position: absolute;
+    top: 670px;
+    left: 50px;
+    background-color: rgb(43,136,216);
+    border: none;
+    color: #fff;
+    padding: 20px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 10px;
+  }
+}
